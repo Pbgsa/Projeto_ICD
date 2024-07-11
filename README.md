@@ -4,6 +4,7 @@ Projeto introdutorio de ciencia de dados utilizando Python e Jupyter Notebooks
 Grupo:
 
 Luan Eustáquio
+
 Pedro Basílio
 
 Link do video da apresentação do projeto:
