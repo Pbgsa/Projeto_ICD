@@ -1,11 +1,9 @@
 # Projeto_ICD
 Projeto introdutorio de ciencia de dados utilizando Python e Jupyter Notebooks
 
-Grupo:
-
-Luan Eustáquio
-
-Pedro Basílio
+* Grupo:
+1. Luan Eustáquio
+2. Pedro Basílio
 
 Link do video da apresentação do projeto:
 
